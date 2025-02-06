@@ -24,8 +24,8 @@ This project is a Rust-based implementation of a Discord Token Fetcher that allo
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/discord-token-fetcher-rust.git
-cd discord-token-fetcher-rust
+git clone https://github.com/concurrentfutures/get-token.git
+cd get-token.git
 ```
 
 ### 2. Add dependencies:
