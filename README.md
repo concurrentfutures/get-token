@@ -62,10 +62,10 @@ cargo run
 #### 1. When prompted, enter your Discord account's email and password.
 
 
-- 2. The script will attempt to fetch the token.
+#### 2. The script will attempt to fetch the token.
 
 
-- 3. The token (or an error message) will be displayed in the terminal.
+#### 3. The token (or an error message) will be displayed in the terminal.
 
 
 
