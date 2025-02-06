@@ -26,16 +26,19 @@ This project is a Rust-based implementation of a Discord Token Fetcher that allo
 ```bash
 git clone https://github.com/your-username/discord-token-fetcher-rust.git
 cd discord-token-fetcher-rust
+```
 
 
 2. Add dependencies:
 
 In your Cargo.toml file, add the following dependencies:
 
+```toml
 [dependencies]
 reqwest = { version = "0.11", features = ["blocking", "json"] }
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
+```
 
 3. Build the project:
 
