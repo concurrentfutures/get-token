@@ -1,6 +1,6 @@
 
 
-# Discord Token Fetche
+# Discord Token Fetcher
 
 This project is a Rust-based implementation of a Discord Token Fetcher that allows you to retrieve a Discord token using your email and password.
 
